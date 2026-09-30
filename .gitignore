@@ -1,1 +1,14 @@
+# Environment variables and credentials
+.env
 
+# Database backups
+backups/
+*.sql
+*.sql.gz
+
+# Backup logs
+backup.log
+
+# Temporary files
+*.tmp
+*.temp
